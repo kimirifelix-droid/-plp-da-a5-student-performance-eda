@@ -1,0 +1,7 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+notebook_check.md
+notebook_check.html
+student_eda_final_check.ipynb
